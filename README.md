@@ -1,4 +1,4 @@
-# Blocss Navigation – v1.0.0
+# Blocss Navigation – v1.0.1
 
 A [Blocss](https://github.com/Blocss/blocss/) component to create navigation objects.
 
