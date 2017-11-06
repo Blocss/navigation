@@ -1,4 +1,6 @@
-# Blocss Navigation – v1.0.1
+# Blocss Navigation – v1.0.1 - Deprecated
+
+**This module has been moved to: ([https://github.com/Blocss/blocss](https://github.com/Blocss/blocss))**
 
 A [Blocss](https://github.com/Blocss/blocss/) component to create navigation objects.
 
